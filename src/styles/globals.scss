@@ -1,0 +1,20 @@
+html,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Proxima Nova, -apple-system, Helvetica Neue, Helvetica, Roboto,
+    Arial, sans-serif;
+  background-color: var(--w-grey);
+}
+
+p {
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+  font-weight: bold;
+  letter-spacing: 0.0013rem;
+}
+
